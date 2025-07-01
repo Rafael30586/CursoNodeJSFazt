@@ -1,0 +1,19 @@
+{
+  "name": "npminit",
+  "version": "1.0.0",
+  "description": "una prueba con npm init",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "first",
+    "project",
+    "nodejs"
+  ],
+  "author": "rafael30586",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
